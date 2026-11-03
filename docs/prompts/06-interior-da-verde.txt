@@ -1,0 +1,19 @@
+Use case: style-transfer.
+Asset type: terceira ilustração da sequência de entrada no site institucional da Verde Boutique, substituindo o quadro da varanda fechada.
+Target dimensions: 1488 x 1056, landscape, proporção aproximada 1.409:1. Uma única vista, sem montagem e sem interface.
+
+Duas imagens anexadas, em ordem:
+1. Fotografia real do interior da Verde Boutique fornecida pelo usuário nesta conversa. É o ALVO a transformar: preservar a organização do espaço e o ponto de vista de quem acabou de entrar na loja.
+2. Ilustração exterior da casa já utilizada no site. Referência de estilo, cores, traço manual e textura de papel. Não inserir a fachada externa dentro da loja.
+
+Pedido: transformar o interior fotografado em uma ilustração autoral da mesma família visual do exterior. A experiência deve parecer a chegada DENTRO da Verde, completando a sequência: casa inteira vista de fora; aproximação oblíqua pelo portão; interior acolhedor visto da entrada. Não desenhar outra porta fechada, varanda ou parede externa. O ambiente interno precisa ser inequívoco e reconhecível como o da fotografia.
+
+Preservar a composição real: parede de tijolo aparente e longa arara de madeira com roupas à esquerda; prateleiras de peças dobradas abaixo; poltrona/cadeira de palhinha no primeiro plano central inferior; vaso com planta de folhas largas ao centro-esquerda; pequeno conjunto de cadeiras, tapete e mesa baixa à direita do centro; balcão ao fundo com computador discreto; emblema triangular da Verde na parede de fundo; arara metálica de peças claras no primeiro plano à direita; iluminação de trilhos no teto. As linhas do piso, do tapete, do balcão e das araras devem guiar o olhar para dentro. Reinterpretar detalhes com desenho, sem adicionar novos cômodos, corredores, janelas ou mobiliário que a foto não mostra.
+
+Composição de câmera: olho humano na entrada, plano amplo com profundidade, alinhamento do ponto de fuga para o fundo da loja. Enquadramento aberto o bastante para reconhecer as áreas da loja. Não usar olho de peixe nem distorcer colunas e móveis. Distribuir os planos do primeiro plano até o balcão para criar sensação de percurso. Reservar uma pequena faixa superior mais calma para o cabeçalho real do site; não desenhar qualquer cabeçalho.
+
+Estilo invariável: desenho fino e expressivo à mão, tinta verde profunda #033625 sobre papel creme quente, hachuras delicadas e áreas de respiro, textura de papel quase imperceptível. Mesmo desenho editorial brasileiro e acolhedor da referência exterior, sem cinza, preto, azul, dourado, aquarela colorida, fotografia ou render 3D. Roupas desenhadas apenas como parte do cenário, sem sugerir produtos específicos.
+
+Emblema da parede: preservar a forma triangular e a folha central reconhecíveis na foto. Pode manter somente o número 1973, se legível; não criar palavras, frases, marcas, promoções ou caracteres inventados. Não inventar novas marcas em embalagens e roupas.
+
+Restrições: não incluir pessoas, modelos, preços, etiquetas legíveis, carrinho, botões, navegação, legenda, seta, borda ou marca d'água. Evitar enfeites sazonais de Natal para o cenário poder funcionar o ano inteiro; manter a vegetação natural e a disposição do espaço. O resultado é uma interpretação ilustrada do interior fornecido, não uma fotografia nem uma nova loja genérica.

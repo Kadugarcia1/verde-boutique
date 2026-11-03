@@ -1,0 +1,23 @@
+Create realistic, production-quality UI designs with clear hierarchy, strong typography, intentional imagery, and purposeful spacing.
+
+Use case: ui-mockup. Uma única direção revisada para o site institucional da Verde Boutique: "Uma casa, muitas histórias". Esta é a combinação das duas direções que o usuário escolheu, não uma nova rodada de opções.
+Target dimensions: 1440 x 1024, desktop website viewport. Render only the website, no browser chrome or device bezel. Data anchor: 3 de novembro de 2026; a única data editorial visível deve ser 1973.
+
+Cinco referências anexadas, em ordem:
+1. Cenário panorâmico ilustrado da casa da Verde recém-gerado: usar como grande cenário de fundo, preservando casa, tinta verde e papel creme.
+2. Proposta "A casa se revela": preservar a elegância do creme, verde escuro e o cuidado editorial.
+3. Proposta "O tempo e os encontros": preservar o protagonismo da marca e a monumentalidade da tipografia; o verde profundo será usado nos capítulos seguintes.
+4. Curadoria real de dez fotos: fachada antiga, desfile, interior, pessoas e modelos. São conteúdo dos próximos capítulos da mesma jornada; não colocar todas na abertura, não gerar novas roupas ou pessoas.
+5. Prancha de identidade oficial e capturas de Brunello Cucinelli: logo Verde e cores são fontes da marca; as capturas de Cucinelli explicam somente uma navegação que percorre um cenário, aproxima a câmera e revela fotografias em sequência. Não copiar símbolos, textos, o campo de conversa, arquitetura italiana ou elementos culturais da outra marca.
+
+Tela principal no início do percurso: o visitante entra em um universo ilustrado que ocupa toda a tela. A casa desenhada fica grande no centro inferior, com vegetação orgânica nas laterais e área superior arejada. Não usar uma imagem num cartão retangular ou um hero em duas colunas; o cenário é o próprio espaço do site. Não usar grade de produtos, preço, sacola, checkout, promoções ou botões de compra.
+
+Header fixo delicado, transparente, altura cerca de 110px, margens laterais de 64px. Logo oficial VERDE centralizado, cerca de 145px de largura; não redesenhar sua personalidade. À esquerda, links discretos "A casa" e "Memórias". À direita, "Moda" e "Curadoria". Tudo em verde profundo. Pequena linha editorial "DESDE 1973" sob o logo se não estiver no arquivo da marca.
+
+No centro da área superior, título em serifada editorial elegante, aproximadamente 72px, duas linhas: "Uma casa." / "Muitas histórias." Sem itálico pesado. Entre o título e a casa, pequeno texto de no máximo duas linhas: "Moda, cultura e encontros." / "Desde 1973, acompanhando histórias." O texto precisa ficar em área sem desenho para leitura clara. Tipografia de interface Montserrat, aproximadamente 14 a 16px; apenas uma serifada além da sans, fora do logotipo existente.
+
+Parte inferior em área calma do desenho: ação sutil "Entre no universo Verde", com um pequeno ícone de seta para baixo. Esta ação conduz ao percurso imersivo; não usar botão comercial preenchido. Rodapé fixo fino e muito discreto: "Ler sem movimento" à esquerda, "01 — A casa" ao centro, "01 / 05" à direita. Não mostrar barra de chat, busca, chatbot ou formulário. Os outros capítulos devem existir fora de quadro, não acrescentar mosaicos ou cards para anunciar funcionalidades.
+
+Paleta: #E2DEC5 creme quente e #033625 verde profundo; apenas um detalhe pequeno de terracota #C64B20 para indicar capítulo ativo. Sem gradiente, sem sombras de aplicativo, sem cantos arredondados, sem elementos genéricos de e-commerce. Arquitetura do layout refinada, estável, espaçosa; imagem à mão, acolhedora e brasileira. O resultado deve comunicar um cenário navegável com profundidade e aproximação, e não uma landing page feita de blocos.
+
+Constraints: no extraneous features. No copied Cucinelli logos, statues, scenes, or interface. Do not invent founder names, addresses or historical dates. Preserve supplied Verde branding and real content. Keep letters legible and all content inside the intended viewport.

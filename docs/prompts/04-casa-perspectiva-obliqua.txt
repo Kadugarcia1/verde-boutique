@@ -1,0 +1,16 @@
+Use case: illustration-story.
+Asset type: segundo de três quadros de aproximação da casa da Verde Boutique, para uma rolagem cinematográfica institucional.
+Target dimensions: 1488 x 1056, landscape, proporção aproximada 1.409:1. Uma única vista, sem montagem e sem interface.
+
+Imagens de referência anexadas em ordem:
+1. Cenário frontal ilustrado já utilizado no protótipo. É o padrão de linguagem gráfica, tinta verde profunda sobre papel creme quente, densidade de traço, arquitetura e atmosfera.
+2. Ilustração oficial da casa. Fonte primária para a identidade arquitetônica: casa térrea, telhas curvas, dois frontões ornamentais, colunas da varanda, muro de pedras, portão central e vegetação.
+3. Fotografia frontal real da casa, usada exclusivamente para reconhecer arquitetura e proporções. Não produzir uma fotografia nem reproduzir o céu azul.
+
+Pedido: desenhar uma NOVA perspectiva da mesma casa, como se a câmera tivesse avançado até o portão e se deslocado para a direita, olhando diagonalmente para a porta da varanda num ângulo de aproximadamente 30 graus. Não fazer um recorte ampliado da vista frontal. A perspectiva deve ser inequivocamente oblíqua: o portão e a mureta de pedra aparecem próximos no primeiro plano inferior esquerdo, a sequência de colunas recua diagonalmente da direita para o centro-esquerda e a porta principal fica ao fundo ligeiramente à esquerda do centro. Mostrar a casa a partir do lado direito visível da referência, sem inventar uma fachada lateral inteira ou ambientes desconhecidos. Manter a mesma quantidade e o mesmo caráter de colunas, telhas e ornamentos, dentro do enquadramento.
+
+Composição: avanço de uma etapa no percurso, nem muito distante nem um close extremo. Casa e varanda ocupam cerca de 70% da imagem. Algumas folhas tropicais nas bordas próximas dão profundidade e saem parcialmente do quadro. Calçada, pedras e piso guiam o olhar à entrada; o desenho deve convidar a entrar. Área superior deve continuar calma, suficiente para o cabeçalho em HTML. Faixa inferior relativamente calma para controles discretos. Usar projeção natural, sem lente olho de peixe, linhas verticais razoavelmente retas. Uma pequena leitura do telhado e das colunas comprova a mudança de ponto de vista.
+
+Estilo invariável: ilustração manual refinada em tinta verde escura #033625, hachuras leves, papel creme quente com textura muito sutil, igual à imagem 1. Não usar cinza, preto, aquarela colorida, 3D, fotografia, render de maquete ou iluminação artificial. A casa é brasileira; não inserir ciprestes, montanhas toscanas, estátuas ou referências italianas.
+
+Restrições: nenhum texto, número, letreiro, logo, botão, seta, borda, marca d'água, pessoa, modelo, roupa, veículo ou objeto novo. Não inventar a história da casa nem uma reconstrução factual. É uma interpretação ilustrada de um novo ponto de vista da arquitetura fornecida. O resultado precisa ser uma vista espacial diferente, coerente com a casa, e não a mesma imagem apenas ampliada.

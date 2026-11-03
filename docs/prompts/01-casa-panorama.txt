@@ -1,0 +1,16 @@
+Use case: illustration-story
+Asset type: cenário panorâmico para um site institucional imersivo da Verde Boutique, sem interface sobreposta.
+Target dimensions: 2400 x 1350, landscape 16:9. Uma única imagem, sem quadros, sem montagem.
+
+Referências anexadas, em ordem:
+Imagem 1: illus_casa-01.png, ilustração oficial da casa; é a referência principal para arquitetura e linguagem de desenho.
+Imagem 2: fotografia real frontal da mesma casa; usar somente para preservar proporções, cobertura, colunas, porta central, gradil e mureta.
+Imagem 3: prancha com quatro capturas do site Brunello Cucinelli, fornecidas pelo usuário; referência apenas para profundidade de cenário e espaço de aproximação de câmera. Não reproduzir os edifícios, árvores europeias, esculturas, logos, textos ou layout desse site.
+
+Pedido: criar um cenário ilustrado autoral que amplie horizontalmente o universo da casa da Verde. Manter a casa reconhecível e fiel à ilustração oficial, em vista frontal levemente elevada e sem distorção de grande angular. Casa térrea clara, telhas curvas, frontões ornamentais nos extremos, varanda com colunas, porta central, vegetação tropical junto à fachada, mureta de pedra e portão central. Não acrescentar cômodos ou andares.
+
+Composição: a casa ocupa aproximadamente 62% da largura e está no terço central inferior. Reservar área de céu creme quase vazia no terço superior para aplicação posterior de texto em HTML. Estender organicamente o chão de calçada e vegetação lateral já presentes na referência. Folhagens brasileiras nas bordas inferiores, em camadas de primeiro plano, sem esconder a casa. O centro inferior deve sugerir uma aproximação visual até o portão. As margens precisam permitir um deslocamento suave de câmera. Evitar novos prédios ou uma rua geograficamente identificável: o entorno expandido é uma interpretação artística.
+
+Estilo: desenho fino à mão em tinta verde escura #033625, pequenas irregularidades humanas, hachuras controladas e sombras leves. Fundo opaco creme quente #E2DEC5, textura de papel quase imperceptível. Apenas esses dois tons, sem branco puro, sem preto, sem 3D, sem efeito de maquete, sem aspecto fotorrealista. Sofisticado, acolhedor, brasileiro, com maturidade e memória. Usar a densidade de traços da ilustração oficial, mais arejada no céu. Não estilizar a casa como um palácio italiano.
+
+Restrições: não gerar pessoas, roupas, produtos, letras, letreiros, marcas, números, logotipo, legendas, botão, campo de busca, borda ou marca d'água. A identidade visual e o texto serão aplicados separadamente. Não alterar elementos arquitetônicos comprovados. O resultado é uma ilustração de atmosfera, não uma reconstituição documental da vizinhança.

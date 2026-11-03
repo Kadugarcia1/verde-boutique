@@ -1,0 +1,19 @@
+Use case: illustration-story.
+Asset type: uma das QUATRO ilustrações do hero de um site institucional da Verde Boutique. Caminho de câmera em profundidade: 1 casa inteira vista da rua; 2 dentro do portão; 3 porta da varanda; 4 interior atual.
+Target dimensions: 1920 x 1080, landscape 16:9. UMA única vista, sem montagem de quatro quadros. PNG com transparência real.
+Referências anexadas, em ordem:
+1. Foto aproximada da porta da casa atual entre duas colunas.
+2. Foto da fachada atual inteira, com portão, muro de pedra e varanda.
+3. Foto do interior atual da Verde Boutique.
+4. Ilustração histórica recém-gerada: SOMENTE referência de estilo de desenho, verde e bordas abertas. NÃO copiar sua loja antiga de dois pavimentos, automóvel, pessoas, letreiros ou outros elementos.
+
+Cena específica desta chamada: PLANO 2 — já DENTRO DOS PORTÕES da casa atual. A câmera atravessou o portão e está no pequeno percurso/pátio diante da varanda, olhando para a porta principal. O portão e o muro ficaram atrás da câmera e NÃO devem bloquear a frente desta vista. Mostrar o piso conduzindo à varanda, as colunas e os desenhos de folhas na parede, parte do telhado e plantas nos lados, com a porta central ao fundo maior que no plano 1. Ponto de vista humano frontal, discretamente deslocado para a direita, com perspectiva espacial visivelmente diferente da foto frontal da rua. Não desenhar um cômodo ou uma ala lateral desconhecida. Usar a foto 2 para a casa e a foto 1 para a porta/varanda.
+
+Linguagem comum às quatro vistas: traço fino manual em tinta verde profunda #033625, hachuras leves, maturidade editorial brasileira, mesmo tipo de desenho da referência 4. Converter as superfícies e detalhes da foto em linha e hachura, nunca em render, fotografia ou maquete. A arquitetura da casa atual tem um pavimento; respeitar a quantidade, a proporção e o caráter das colunas e da porta. Todas as vistas precisam parecer a MESMA casa, numa aproximação contínua e verossímil.
+
+Fundo: transparente de verdade, sem papel opaco, céu branco, papel branco ou creme desenhado até as bordas. O site aplicará o mesmo fundo cru #E2DEC5 por trás. Deixar os vazios entre os traços transparentes. NÃO imprimir um quadriculado de transparência. As superfícies claras da própria arquitetura podem ser sugeridas com hachura muito leve e vazios. Preservar um espaço de respiro transparente no topo para o logotipo, de pelo menos 14% da altura, e uma faixa inferior mais calma para controles de navegação em HTML.
+
+Composição: vinheta espacial ampla, com bordas abertas que desaparecem em traços leves e transparência; não criar cartão retangular, borda, moldura ou recorte duro. O piso conduz o olhar para a entrada/fundo em cada vista. Não cortar os principais elementos de reconhecimento. Não usar lente olho de peixe nem distorcer a casa. Desenho legível e detalhado na região central, mais leve nas bordas.
+
+Invariantes: preservar os elementos comprovados pelas fotos; não adicionar pessoas, modelos, veículos, pisos ou móveis novos, nem cômodos desconhecidos. Não misturar a fachada antiga da ilustração 4 com a casa atual das fotos 1–3. Sem ciprestes, esculturas, símbolos ou edifícios da Brunello Cucinelli. Sem letras, legendas, botões, títulos, interface, marcas d'água ou texto novo. Apenas o emblema histórico da própria Verde/1973 pode permanecer se fizer parte visível da cena fotografada. Os títulos e a marca serão HTML separado.
+

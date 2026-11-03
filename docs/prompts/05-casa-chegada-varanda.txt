@@ -1,0 +1,19 @@
+Use case: illustration-story.
+Asset type: terceiro e último quadro de aproximação da casa da Verde Boutique, continuando uma rolagem imersiva de apenas três vistas.
+Target dimensions: 1488 x 1056, landscape, proporção aproximada 1.409:1. Uma única imagem, sem montagem, sem interface.
+
+Referências anexadas em ordem:
+1. Cenário frontal ilustrado do protótipo: linguagem visual e arquitetura da casa.
+2. Ilustração oficial da casa: identidade arquitetônica.
+3. Fotografia frontal real da casa: somente evidência de arquitetura e proporções; não reproduzir fotografia, céu azul ou textos.
+4. Segundo quadro recém-gerado: perspectiva oblíqua da varanda vista da direita, com portão e muro de pedra no primeiro plano. Continuar a mesma casa e a mesma tinta sobre papel.
+
+Pedido: criar uma nova perspectiva mais próxima, como se a câmera tivesse atravessado a região do portão e chegado ao piso da varanda, agora ligeiramente à esquerda do eixo da porta, olhando diagonalmente para a entrada. Não ampliar nem recortar a imagem 4. A mudança deve ser espacialmente visível: uma coluna próxima enquadra a borda esquerda com parte de seu capitel; o piso da varanda conduz em diagonal à porta principal de madeira verde, posicionada à direita do centro; uma segunda coluna pode aparecer na borda direita, menor e mais distante. Mostrar só o trecho de fachada comprovado pelas referências, sem inventar o interior da loja, corredor, mobiliário, mercadorias ou outro cômodo.
+
+Elementos da casa: porta dupla verde escura com painéis e ferragens discretas, parede clara com desenhos de folhas, colunas clássicas simples, piso de varanda e uma pequena porção da cobertura. Preservar o caráter e a proporção dos elementos da mesma casa. A câmera está voltada para a casa, não olhando para a rua. O portão não deve dominar este quadro porque ficou para trás. Deixar as linhas do piso e a diferença de tamanho entre as colunas evidenciarem a nova perspectiva. Sem distorção olho de peixe.
+
+Composição: intimidade de chegada, porta como ponto focal. Manter área superior calma para o logotipo e os controles reais aplicados depois. Não desenhar a porta tão grande a ponto de cortar sua parte superior; mostrar o limiar completo, um trecho do piso e o espaço entre colunas. Algumas folhas junto à borda inferior direita podem relacionar o desenho à vegetação da casa, sem cobrir a porta.
+
+Estilo invariável: ilustração manual em tinta verde profunda #033625 sobre papel creme quente, densidade de traço e hachuras iguais às imagens 1 e 4. Sofisticada, acolhedora, brasileira e madura. Sem foto, render 3D, maquete, aquarela colorida, preto ou cinza. Não adicionar atmosfera italiana, estátuas ou paisagem toscana.
+
+Restrições: absolutamente sem texto, letras, números, logo, placa, legenda, botão, seta, borda, marca d'água, pessoas, modelos, roupas, produtos ou animais. Não criar uma reconstrução documental: é um cenário ilustrado interpretativo a partir da arquitetura fornecida. O enquadramento deve ser claramente diferente dos dois anteriores, concluindo a sequência: casa inteira, vista oblíqua pelo portão, chegada à varanda.

@@ -1,0 +1,15 @@
+{
+  "source": "IMG_9804.MP4",
+  "output": "verde-musica.m4a",
+  "duration": 125.728005,
+  "streams": [
+    {
+      "type": "audio",
+      "codec": "aac",
+      "sample_rate": "44100"
+    }
+  ],
+  "size_bytes": 1998808,
+  "autoplay": false,
+  "user_activation": true
+}

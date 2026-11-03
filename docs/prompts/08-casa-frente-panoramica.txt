@@ -1,0 +1,19 @@
+Use case: precise-object-edit.
+Asset type: variante panorâmica responsiva da PRIMEIRA perspectiva do site da Verde Boutique. Não é um quadro adicional do percurso.
+Target dimensions: 1920 x 1080, landscape 16:9. Uma imagem sem interface.
+
+Imagem anexada: cenário frontal da casa da Verde. Preservar a arquitetura, o estilo de tinta verde sobre papel creme e o reconhecimento da mesma casa. Reorganizar a composição para tela mais larga, sem distorcer a imagem nem esticar arquitetura.
+
+Pedido: criar uma versão mais arejada desse mesmo cenário frontal. A casa inteira, incluindo telhado, varanda, muro e portão, deve ocupar aproximadamente 65% da largura. O topo do telhado deve começar por volta de 46% da altura da imagem; a base do portão deve terminar até 79% da altura. Estender naturalmente o espaço de papel e o entorno para uma tela 16:9. Manter a casa em posição frontal no centro inferior, sem mudar o ângulo.
+
+Zonas calmas importantes para a interface que será programada separadamente:
+- Os primeiros 15% de altura devem conter somente papel creme e poucos traços discretos de céu; nada de folhas, galhos ou telhados nessa faixa, principalmente nos cantos superiores.
+- Entre 15% e 42% da altura, manter o centro praticamente vazio para título e texto em HTML. Não desenhar objetos ou ramos atravessando essa área.
+- A faixa entre 82% e 100% da altura deve ter papel e apenas vestígios muito leves de calçada; não colocar portão, pedras ou desenho denso. É onde entram o convite de entrada e a navegação real.
+- Árvores e folhagens podem enquadrar as bordas laterais, começando abaixo de 25% da altura, sem tapar a casa ou invadir as zonas calmas.
+
+Manter a mesma casa brasileira térrea: telhado de telhas curvas, frontões ornamentais nas extremidades, colunas na varanda, porta central, folhagens junto à parede, muro de pedra e portão central. Não mudar esses elementos para outra casa. A menor escala estabelece uma vista inicial mais distante, que será seguida pela perspectiva oblíqua e pelo interior já produzidos.
+
+Estilo: ilustração manual com hachuras delicadas, tinta verde profunda #033625, papel creme quente com textura sutil. Mesma densidade de traços da imagem fornecida na região da casa. Sem branco puro, preto, cinza, outras cores, fotografia, 3D ou vinheta escura. Não desenhar margens artificiais: a ilustração é um único cenário contínuo até as bordas.
+
+Restrições: absolutamente sem texto, letras, números, logo, marca, botão, seta, interface, borda, marca d'água, pessoas, roupas ou veículos. Não criar uma imagem de site; criar somente o fundo ilustrado, pronto para receber texto e controles reais.

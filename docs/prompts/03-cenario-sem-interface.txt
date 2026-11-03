@@ -1,0 +1,11 @@
+Use case: precise-object-edit.
+Asset type: fundo ilustrado final de um site institucional, derivado da direção visual aprovada.
+Imagem anexada: alvo da edição; preservar sua ilustração de casa, plantas, calçada e papel.
+
+Target dimensions: preservar exatamente a proporção 1487 x 1058 da imagem anexada, sem esticar, achatar, ampliar ou reposicionar o cenário.
+
+Pedido: remover absolutamente toda a interface e todos os textos da imagem. Remover o logotipo VERDE no topo, a linha DESDE 1973, os quatro links do cabeçalho, o título Uma casa. Muitas histórias., os dois textos de apoio, o convite Entre no universo Verde, a seta inferior, o texto Ler sem movimento, os números 01 / 05, o rótulo de capítulo e todas as linhas horizontais de progresso no rodapé. Preencher os locais removidos com a continuidade natural do papel creme e dos traços ilustrados que passam por trás. Não deixar letras, sombras de letras, símbolos, marcas, números ou interface.
+
+Invariantes: manter a casa exatamente no mesmo lugar e tamanho, incluindo portão, muro de pedra, colunas, telhado e folhagem. Manter a faixa de papel livre abaixo da calçada para aplicação posterior dos controles reais em HTML. Não adicionar pessoas, veículos, novas edificações, novos detalhes arquitetônicos ou vegetação cobrindo a casa. Manter o papel creme quente, tinta verde profunda, qualidade do desenho e composição integral. Não é um redesenho nem uma nova perspectiva: somente a remoção precisa de textos e interface.
+
+Resultado: uma única imagem de cenário sem textos ou interface, pronta para receber tipografia e controles programados separadamente. Fundo opaco. Sem borda ou marca d'água.

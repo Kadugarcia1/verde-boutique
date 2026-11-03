@@ -1,0 +1,7 @@
+Use case: background-extraction.
+Asset type: transparent PNG of an existing supplied partner logo for the Verde Boutique website.
+Five reference images are attached. The edit target is Image 5: gold lowercase shoulder wordmark on a white square. Preserve the same gold color, letterforms and kerning.
+Ignore all other attached logos; return ONLY the specified logo.
+Primary request: extract the existing logo from its flat background. Do not redesign, retype, stylize, embellish, trace into different lettering or add anything. Preserve the original identity faithfully. Remove the flat backdrop completely, including negative spaces inside letters, and preserve clean anti-aliased edges. The output must have a real transparent alpha background, not white, cream, gray or a checkerboard printed into the image.
+Composition: one isolated logo centered, tightly framed with approximately 6% transparent margin. No huge blank square, no mockup, no labels or multiple logos. Original aspect ratio of the visible logo.
+Constraints: no shadows, no glow, no outline added, no border, no new symbols, no watermark. This is technical background extraction, not a new logo design.

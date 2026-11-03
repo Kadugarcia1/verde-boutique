@@ -1,0 +1,15 @@
+Use case: style-transfer.
+Asset type: cenário ilustrado do capítulo de memórias da Verde Boutique, para alternar uma passagem de linha do tempo com quatro fotografias reais do acervo.
+Target dimensions: 1920 x 1080, landscape 16:9. Uma única vista, sem montagem e sem interface.
+
+Referências anexadas em ordem:
+1. Fotografia antiga do interior da Verde, arquivo IMG_2784.JPG, fornecido pelo usuário. É o alvo da transformação e a fonte da organização do espaço.
+2. Ilustração atual do interior da Verde criada para o site. Usar somente como referência de linguagem de traço, papel creme e tinta verde.
+
+Pedido: transformar a fotografia antiga em um cenário ilustrado, reconhecível como aquele registro de outro momento da loja. Este quadro apresenta as memórias, e será seguido por fotografias reais. Não modernizar o ambiente nem copiar a organização do interior atual da imagem 2. Preservar a disposição da imagem 1: araras de roupas dos dois lados, coluna central com referências gráficas, janela ou grade atrás da coluna, cadeiras de cores diferentes reunidas no espaço central, mesas de madeira e estruturas metálicas verdes à direita, prateleiras e pilhas de peças, piso e objetos do registro.
+
+Composição: ponto de vista de quem percorre o espaço e observa o conjunto de cadeiras, mesas e araras, com profundidade entre os planos. Abrir levemente as margens para uma composição 16:9 sem inventar novos cômodos. Deixar a área central superior relativamente calma para um título em HTML aplicado depois. A memória deve ser reconhecida pelos objetos e pela organização espacial, e não por filtros de envelhecimento.
+
+Estilo: ilustração fina à mão em tinta verde escura #033625 sobre papel creme quente, com hachuras delicadas, a mesma densidade editorial e textura sutil da ilustração atual. Sem cores adicionais, cinza, preto, sépia, 3D ou aparência de fotografia. Respeitar a atmosfera brasileira e afetiva da Verde.
+
+Restrições: não acrescentar pessoas, roupas específicas inexistentes, mobiliário ou equipamentos modernos. Textos e marcas pequenas da foto devem virar marcas gráficas abstratas não legíveis; não inventar logotipos, slogans, datas ou palavras. Não colocar nenhum texto novo, número de ano, interface, botão, borda ou marca d'água. Não atribuir uma data específica à cena. Trata-se de interpretação ilustrada de um registro do acervo, sem pretensão de reconstrução arquitetônica exata.

@@ -51,20 +51,22 @@
     "size_bytes": 3917399
   },
   {
-    "original": "Giro .mov",
-    "name": "Giro .mov",
-    "slug": "verde-giro-mobile-20s",
-    "source_duration": 80.92,
+    "original": "Giro 53.mov",
+    "name": "Giro 53.mov",
+    "slug": "verde-giro-53-mobile-20s",
+    "source_duration": 47.507007,
     "source_width": 1080,
     "source_height": 1920,
     "source_codec": "hevc",
     "source_audio_tracks": 1,
-    "src": "verde-giro-mobile-20s.mp4",
-    "poster": "verde-giro-mobile-20s-poster.jpg",
+    "src": "verde-giro-53-mobile-20s.mp4",
+    "poster": "verde-giro-53-mobile-20s-poster.jpg",
     "duration": 20.0,
     "width": 720,
     "height": 1280,
     "audio_tracks": 0,
-    "size_bytes": 5619061
+    "size_bytes": 6167438,
+    "source_start_seconds": 6,
+    "source_end_seconds": 26
   }
 ]

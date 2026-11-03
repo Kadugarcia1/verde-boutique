@@ -27,3 +27,9 @@ Evidências no pacote de criação em prototipo/evidencias: v6-final-13-hero-fin
 ## Limites e ressalvas
 
 Cormorant Garamond permanece como substituta livre dos títulos: Beachwalk/Leona do brandbook dependem dos arquivos/licenças web ou ratificação dessa escolha. Montserrat é oficial. Não houve ensaio em Safari/iPhone físico, leitor de tela real, rede móvel limitada ou métricas de campo. Texto fixo sobre fotografias exige conferência adicional de contraste nas várias passagens. Este QA não atesta publicação; registrar o resultado do GitHub/Vercel em docs/ENTREGA.md após confirmação das ferramentas.
+
+## Atualização — Giro 53 no mobile
+
+Por solicitação do usuário, o vídeo móvel foi substituído por Giro 53.mov, recorte de 00:06 a 00:26, mantendo 20 s. Exportação H.264, 720×1280, 30 fps, 600 frames, faststart e zero trilhas de áudio, verificados por ffprobe. Poster extraído do primeiro frame do recorte. Nome de arquivo novo evita reutilização do vídeo antigo em cache. Os três filmes desktop e a música ambiente independente permanecem como antes.
+
+Verificação desta atualização: build e 4/4 testes passaram; em 390×844 o navegador carregou apenas o novo Giro 53, com duração 20 s, muted, reprodução e pausa funcionando e sem overflow horizontal.

@@ -40,7 +40,7 @@ Hero: 380svh, quatro vistas com dissoluções e aproximação discreta. Memória
 
 Acervo real: 4 cards; moda: 6; detalhes: 8. Desktop com 4/3/4 colunas respectivamente; mobile com duas. Galeria acessível com 20 fotos integrais, teclado, Escape e retorno de foco. As setas da galeria de fotos permanecem; não são controles dos percursos imersivos.
 
-Acima de “Diferentes olhares. Um universo Verde.”: três vídeos verticais simultâneos no desktop (Ff.06/07/08). Mobile carrega somente os primeiros **20 segundos** de Giro.mov. MP4 H.264 720×1280, sem trilha de áudio. Pausam fora de vista/aba oculta; controle de pausa disponível. Redução de movimento e modo leitura usam posters sem reprodução automática.
+Acima de “Diferentes olhares. Um universo Verde.”: três vídeos verticais simultâneos no desktop (Ff.06/07/08). Mobile usa **20 segundos de Giro 53.mov, do segundo 6 ao 26**, sem áudio. Esta escolha substitui o Giro anterior. MP4 H.264 720×1280, sem trilha de áudio. Pausam fora de vista/aba oculta; controle de pausa disponível. Redução de movimento e modo leitura usam posters sem reprodução automática.
 
 Áudio extraído de IMG_9804.MP4, preservado em AAC/M4A, duração 125,728 s. Começa **somente ao ativar música**, volume inicial 28%, com pausa e loop. Sem autoplay com áudio. Arquivos originais preservados fora do site publicado.
 

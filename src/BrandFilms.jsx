@@ -6,7 +6,7 @@ const desktopFilms = [
   { src: 'verde-filme-07.mp4', poster: 'verde-filme-07-poster.jpg', label: 'Filme 2 da Verde Boutique' },
   { src: 'verde-filme-08.mp4', poster: 'verde-filme-08-poster.jpg', label: 'Filme 3 da Verde Boutique' },
 ];
-const mobileFilms = [{ src: 'verde-giro-mobile-20s.mp4', poster: 'verde-giro-mobile-20s-poster.jpg', label: 'Um giro pela Verde Boutique' }];
+const mobileFilms = [{ src: 'verde-giro-53-mobile-20s.mp4', poster: 'verde-giro-53-mobile-20s-poster.jpg', label: 'Um giro pela Verde Boutique' }];
 
 export function BrandFilms({ linear }) {
   const section = useRef(null);

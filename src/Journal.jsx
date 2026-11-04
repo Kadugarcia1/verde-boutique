@@ -10,6 +10,7 @@ import { BrandFilms } from './BrandFilms.jsx';
 import { ArrivalJourney } from './ArrivalJourney.jsx';
 import { AmbientAudio } from './AmbientAudio.jsx';
 import { IllustrationPalette } from './IllustrationPalette.jsx';
+import { BusinessFooter } from './BusinessFooter.jsx';
 
 const clamp = n => Math.max(0, Math.min(1, n));
 const Photo = ({ src, ...props }) => <img src={'/assets/' + src} decoding="async" {...props} />;
@@ -142,7 +143,8 @@ export function Journal() {
       </section>
     </main>
 
-    <footer className="story-footer"><button className="reading-toggle" onClick={toggleReading} disabled={reduced}>{reduced ? 'Movimento reduzido' : linear ? 'Voltar à imersão' : 'Ler sem movimento'}</button><nav className="chapter-progress" aria-label="Linha do tempo da Verde">{chapters.map((c, i) => <button key={c.id} onClick={() => go(i)} aria-label={`Capítulo ${i + 1}: ${c.title}`} aria-current={active === i ? 'step' : undefined}><span className={`progress-track ${active >= i ? 'visited' : ''}`} /><span className="chapter-label">{c.time} — {c.title}</span></button>)}</nav><span className="chapter-counter" aria-live="polite">0{active + 1} / 05</span></footer>
+    <BusinessFooter />
+    <div className="story-footer"><button className="reading-toggle" onClick={toggleReading} disabled={reduced}>{reduced ? 'Movimento reduzido' : linear ? 'Voltar à imersão' : 'Ler sem movimento'}</button><nav className="chapter-progress" aria-label="Linha do tempo da Verde">{chapters.map((c, i) => <button key={c.id} onClick={() => go(i)} aria-label={`Capítulo ${i + 1}: ${c.title}`} aria-current={active === i ? 'step' : undefined}><span className={`progress-track ${active >= i ? 'visited' : ''}`} /><span className="chapter-label">{c.time} — {c.title}</span></button>)}</nav><span className="chapter-counter" aria-live="polite">0{active + 1} / 05</span></div>
     {galleryIndex !== null && <Gallery index={galleryIndex} setIndex={setGalleryIndex} close={() => setGalleryIndex(null)} />}
   </div>;
 }

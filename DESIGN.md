@@ -9,9 +9,11 @@ Brunello Cucinelli AI orienta o ritmo espacial e os respiros; Nicholson, Sézane
 ## Decisões mais recentes do usuário — prevalecem sobre versões anteriores
 
 - Fundo contínuo **cru `#E2DEC5`**, com traço verde `#033625`. Não acrescentar branco aos cenários. A seção final de detalhes em verde permanece conforme o usuário aprovou as últimas seções.
-- **Quatro** perspectivas no hero: plano amplo externo → dentro dos portões → porta entre as colunas → interior atual. Esta orientação substitui o limite anterior de três perspectivas.
+- Entrada ativa: **somente duas imagens grandes**, uma de fora e outra de dentro da loja. A externa mostra a casa inteira, com a variação gerada preservada e amplo respiro cru superior. A interna parte diretamente do frame real do vídeo, preservando o ambiente fotografado, sem reconstruir uma sala nova. Desenho 2D em verde sobre cru, somente o ambiente, **sem pessoas ou animais**. Esta direção substitui tanto a seleção 02 → 04 → 09 → 11 quanto a proposta de trocar entre 12 perspectivas; a biblioteca anterior permanece como histórico.
+- Correção de continuidade de 4/11/2026: piso da varanda em mosaico contínuo de cacos cerâmicos, flores de **quatro lóbulos** com o mesmo desenho, duas cadeiras de fios com concha oval e pernas finas nas mesmas posições. Não alternar flores com quadrados, círculos ou outras rosetas, nem trocar cadeiras de fios por palhinha, couro ou madeira. A cadeira de palhinha do salão é um objeto distinto. O letreiro físico **VERDE 1973** permanece na faixa acima do arco nas vistas 01–03 e sai naturalmente pelo recorte superior nas aproximações seguintes. Essa inscrição arquitetônica é uma exceção à restrição de texto novo nas ilustrações.
+- A composição é sobreposta: fachada na frente, com recorte na abertura da porta, e interior atrás. A rolagem apenas amplia as duas imagens em torno de um ponto fixo na tela, sem mudança de eixo, rotação ou troca de vistas. A chegada ao salão ocorre dentro de quatro a cinco rolagens de tela: seção de **500svh** incluindo o viewport fixado; **quatro alturas de tela de deslocamento**. O interior está totalmente revelado até 86% desse deslocamento.
 - Copy: **“Uma loja. Muitas Histórias”**. Título menor, subtítulo com respiro. Retirado “Entre no universo Verde”.
-- Aproximação por rolagem nativa, com imagens distintas e dissolução. Sem setas, bolinhas, contador ou controles locais de slides no hero e no percurso de memórias. A navegação global dos cinco capítulos é independente e permanece.
+- Aproximação por rolagem nativa e escala da composição fixa de duas imagens, sem dissolução de uma perspectiva em outra. Sem setas, bolinhas, contador ou controles locais de slides no hero e no percurso de memórias. A navegação global dos cinco capítulos é independente e permanece.
 - Cabeçalho e rodapé transparentes em todos os estados. A interface flutua sem faixas opacas; cores reais verde/cru conforme a superfície.
 - Respiro cru com “Os lugares guardam o tempo. As pessoas levam as histórias.” entre entrada e memórias.
 - Percurso horizontal ilustrado com as quatro fotos confirmadas: fachada antiga, desfile, interior antigo e outdoor. As vinhetas se sobrepõem pelas margens abertas, sem cartões. Depois aparecem as **quatro fotografias reais** correspondentes.
@@ -36,7 +38,9 @@ Logos em PNG com transparência, sem cartões ou nomes abaixo: Levi’s, Insider
 
 ## Movimento, mídia e acesso
 
-Hero: 380svh, quatro vistas com dissoluções e aproximação discreta. Memórias: 340svh no desktop / 320svh no mobile, com deslocamento horizontal vinculado à rolagem vertical. Nenhum evento bloqueia roda ou toque. A saída se dissolve no mesmo cru. Modo de leitura e `prefers-reduced-motion` mostram todos os desenhos em fluxo estático.
+Hero: 500svh no desktop e no mobile. `src/arrival-portal.js` define as duas artes, o recorte da porta e o ponto de escala constante em 50% da largura/66% da altura do palco. A fachada cresce em primeiro plano, revelando a imagem interna através do recorte; não há troca de perspectivas. O interior está revelado até 86% do percurso e a saída para cru ocorre de 95% a 100%. Um véu cru suave mantém a leitura do texto inicial e dos controles globais; cabeçalho e rodapé continuam transparentes. Memórias: 340svh no desktop / 320svh no mobile, com deslocamento horizontal vinculado à rolagem vertical. Nenhum evento bloqueia roda ou toque. Modo de leitura e `prefers-reduced-motion` mostram as duas artes em fluxo estático.
+
+Correção de retorno do scroll e integração ao fundo: a entrada é recomposta integralmente em um canvas 2D do tamanho do viewport a cada posição, usando as mesmas duas imagens e a mesma geometria. `src/arrival-renderer.js` prepara as artes como tinta verde com alfa, retirando o papel claro e suavizando somente os limites externos. O canvas é limpo e preenchido com o cru exato antes de cada composição. Não usar filtro SVG de grupo, superfícies CSS gigantes ampliadas ou alternância de visibilidade para pintar a fachada da entrada; essa combinação apresentou fragmentos na volta. O modo estático usa as mesmas artes com papel transparente. Os PNGs/WebPs originais permanecem intactos.
 
 Acervo real: 4 cards; moda: 6; detalhes: 8. Desktop com 4/3/4 colunas respectivamente; mobile com duas. Galeria acessível com 20 fotos integrais, teclado, Escape e retorno de foco. As setas da galeria de fotos permanecem; não são controles dos percursos imersivos.
 
@@ -46,11 +50,15 @@ Acima de “Diferentes olhares. Um universo Verde.”: três vídeos verticais s
 
 Contatos fornecidos: Instagram `https://www.instagram.com/verdeboutique/`, telefone `+55 19 99700-1777`, e-mail `verdeboutique1973@gmail.com`. Favicon derivado da folha oficial fornecida; variante legível em 16/32 px e ícone Apple.
 
+Rodapé institucional: CNPJ **46.966.297/0001-45**, endereço **Rua 7 de Setembro, 136 — Centro, Pirassununga, São Paulo, CEP 13631-068**, fornecidos pelo usuário em 4/11/2026. O Google Maps aparece integrado, com carregamento tardio e link para abrir o endereço. Crédito exato **“Feito por Garcia Co”**, ligado a `https://garciaco.com.br`. O rodapé fica no fechamento da página, em cru/verde e com espaço para os controles fixos; o mapa usa sua cartografia original, sem o filtro das ilustrações. Dados apresentados conforme fornecidos, sem criação de razão social ou horários.
+
 ## Arquivos e entrega
 
-Interface: `src/Journal.jsx`, `ArrivalJourney.jsx`, `MemoryJourney.jsx`, `BrandFilms.jsx`, `AmbientAudio.jsx`, `IllustrationPalette.jsx`. Tokens/layout: `src/journal.css`. Fotos/marcas: `src/content.js`.
+Interface: `src/Journal.jsx`, `ArrivalJourney.jsx`, `MemoryJourney.jsx`, `BrandFilms.jsx`, `AmbientAudio.jsx`, `IllustrationPalette.jsx` e `BusinessFooter.jsx`. Tokens/layout: `src/journal.css`. Fotos/marcas: `src/content.js`.
 
-Prompts: `docs/PROMPTS.md` e `docs/prompts/` no site preparado; no pacote de criação estão em `../PROMPTS.md` e `../prompts/`. Ativos de entrada: 13–16; memórias: 09–12; interior de transição: 06. As gerações antigas ficam como histórico, não como sequência atual.
+Prompts: `docs/PROMPTS.md` preserva o histórico. Artes, fontes e prompts vigentes da entrada: `docs/entrada-continua/2026-11-04-portal/`. Os únicos ativos usados pelo hero são `arrival-portal-wide.webp` e `arrival-portal-real-interior.webp`. A tentativa de interior reconstruído e o estudo intermediário foram descartados, sem uso na interface. A biblioteca V8 e a seleção anterior ficam preservadas como histórico. Memórias: 09–12; interior da transição posterior: 06.
+
+Publicação do código: os dois PNGs aprovados, seus WebPs, prompts e manifesto são versionados. Vídeo de origem, frames reais, comparativos com pessoas e gerações substituídas permanecem no acervo local de criação, ignorado pelo Git. Os nomes históricos nesses registros descrevem etapas anteriores, não ativos exigidos pelo build atual.
 
 Destino local solicitado: `C:/Projects/carloseduardogarcia/verde-boutique/Site`. Repositório: `https://github.com/Kadugarcia1/verde-boutique`. Vercel deve usar a conta/equipe indicada pelo usuário, nunca a equipe Vetra por inferência. `vercel.json` publica `dist/client` após `npm run build`; nenhum segredo ou variável de ambiente é necessário.
 

@@ -2,7 +2,27 @@
 
 Textos exatos enviados ao gerador de imagens do ChatGPT. Para testar no Gemini Nano Banana, use um prompt por vez e anexe as referências na ordem indicada. Confira os resultados entre modelos; as perspectivas são interpretações ilustradas, e não levantamentos arquitetônicos. As fotografias reais das modelos e do acervo não foram geradas.
 
-## Arquivos ativos — revisão 6
+## Artes ativas — composição de duas imagens
+
+Direção vigente: apenas uma arte ampla de fora da loja e uma do interior real, sobrepostas com recorte na abertura da porta e aproximação por escala. Prompts exatos em [fachada ampla](entrada-continua/2026-11-04-portal/prompts/fachada-ampla.txt) e [interior fiel ao vídeo](entrada-continua/2026-11-04-portal/prompts/interior-fiel-ao-video.txt). Fontes, arquivos e método no [registro da composição](entrada-continua/2026-11-04-portal/README.md).
+
+A foto real do interior é o alvo da edição e governa a perspectiva, o enquadramento e os móveis; a fachada gerada é somente referência de traço/paleta para essa imagem interna. A tentativa anterior de inventar um interior mais amplo foi rejeitada e está arquivada em `estudos/`, sem uso no site.
+
+## Histórico — revisão 8
+
+Seleção ativa do site, solicitada após a correção: **02, 04, 09 e 11**. A biblioteca e os 12 arquivos V8 são preservados. A demonstração com todos os quadros é um estudo de movimento, sem substituir essa seleção na implementação vigente.
+
+Correção de consistência visual solicitada em 4/11/2026: piso contínuo de cacos cerâmicos, o mesmo desenho floral de quatro lóbulos, mesmas cadeiras de fios da varanda e letreiro arquitetônico **VERDE 1973**. A inscrição da fachada é permitida; a restrição de texto novo refere-se à interface e a textos inventados. Ativos `arrival-v8-01.webp` a `arrival-v8-12.webp`.
+
+Edições localizadas dos quadros 01–07 pelo gerador integrado, usando os quadros 03 e 05 corrigidos como referências comuns e as fotografias de cada posição para a perspectiva e oclusão. O quadro 07 teve um ajuste adicional na pequena porção de cadeira à direita. Quadros 08–12 preservados, sem nova geração. Os prompts, contrato, manifesto e comparativo desta etapa ficam no acervo local `entrada-continua/2026-11-04-consistencia/`, fora da versão publicada do repositório.
+
+## Histórico — revisão 7
+
+Entrada contínua: **12 ilustrações 2D do mesmo vídeo**, verde `#033625` sobre cru `#E2DEC5`, somente ambiente, sem pessoa ou animal. Ativos históricos `arrival-v7-01.webp` a `arrival-v7-12.webp`. Prompts, fontes, PNGs originais, dimensões e hashes desta etapa permanecem no acervo local `entrada-continua/2026-11-03/`, fora da versão publicada do repositório. O prompt 01 original e sua revisão de composição estão preservados separadamente. A referência comum de desenho é o quadro 09, gerado primeiro.
+
+O percurso ocupa 500svh incluindo o viewport fixado; o último quadro está completamente visível em 84% dos quatro viewports de deslocamento. A direção nova substitui a porta fechada e as vistas independentes da revisão anterior. Memórias e interior de transição posterior permanecem com suas imagens anteriores.
+
+## Histórico — revisão 6
 
 Hero: **13, 14, 15, 16** (externa, dentro dos portões, porta, interior). Memórias: **09, 10, 11, 12** (fachada antiga, desfile, interior antigo, outdoor). O cenário 06 permanece na transição para o presente. As gerações 01–08 registram o processo anterior.
 

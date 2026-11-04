@@ -1,0 +1,34 @@
+{
+  "mode": "two_fixed_images_scale_only",
+  "active_images": [
+    {
+      "png": "originais/fachada-ampla.png",
+      "asset": "/assets/arrival-portal-wide.webp",
+      "source": "../2026-11-04-consistencia/ilustracoes/arrival-v8-02.png",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256_png": "d461180e501cfe24efaba1b3d28806386d5c3576182188e87ead7a430fbf3ff5",
+      "sha256_webp": "93135f508c0a47791e663c89dd683bda5643c5d961ea4681f42b015b1ead5415"
+    },
+    {
+      "png": "originais/interior-real.png",
+      "asset": "/assets/arrival-portal-real-interior.webp",
+      "source": "../2026-11-03/selecionados/12-interior-revelado-f0464.png",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256_png": "4c1d0ca312d24ab10c2f812ef0682d311c93a5a661e7a7775bb90b68cea503d5",
+      "sha256_webp": "cb3ac139a116d51ff50f80ca0f1f0537e75d692aeb126dbdee9de2c87c63905d"
+    }
+  ],
+  "screen_axis": [
+    0.5,
+    0.66
+  ],
+  "full_interior_progress": 0.86,
+  "source_of_interior": "actual user video frame; photo is edit target",
+  "discarded_studies_not_used": true
+}

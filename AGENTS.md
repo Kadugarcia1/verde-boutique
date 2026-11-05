@@ -11,5 +11,6 @@ Leia DESIGN.md antes de alterar o site. As instruções recentes do usuário pre
 - Três filmes mudos no desktop; somente Giro de 20 s no celular. Respeitar redução de movimento e pausa.
 - Prompts exatos em docs/PROMPTS.md e docs/prompts/ (ou ../PROMPTS.md e ../prompts/ no pacote de criação).
 - Validar no navegador, executar npm run build e npm run test:sites, atualizar design-qa.md.
+- Manter somente arquivos usados em public. O build executa a auditoria dos assets contra o JavaScript/HTML/CSS gerados e falha se houver órfãos ou referências ausentes. Guardar gerações substituídas no acervo local fora de public.
 - Preservar .openai/hosting.json, worker/index.js, scripts/prepare-sites-build.mjs e tests/sites-worker.test.mjs.
 - Publicação somente dentro do destino e da conta/equipe autorizados na sessão.

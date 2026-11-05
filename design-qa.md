@@ -95,3 +95,11 @@ O carregamento limpo final mostrou `canvas-2d`, arte pronta, um canvas sem filtr
 Incluídos os dados fornecidos pelo usuário: CNPJ 46.966.297/0001-45, Rua 7 de Setembro, 136 — Centro, Pirassununga, São Paulo, CEP 13631-068. Crédito “Feito por Garcia Co” com link HTTPS para garciaco.com.br. Mapa Google integrado com carregamento `lazy`, título acessível e link de abertura no Maps usando o endereço completo. Nenhum horário ou razão social foi inventado.
 
 Conferência no navegador integrado: o mapa carregou com o pin da Verde Boutique e a indicação de Rua 7 de Setembro, 136; link de crédito, `noopener noreferrer`, texto do CNPJ e endereço conferidos. Desktop e larguras 390 e 320 sem overflow horizontal; mapa de 343,2×280 em 390 e 281,6 px de largura em 320. Crédito com alvo de 44 px e respiro acima da navegação fixa. Emulação removida ao fim e nenhum erro JavaScript capturado. Build e oito testes passaram.
+
+## Limpeza de assets órfãos
+
+A limpeza anterior estava incompleta: 24 versões V7/V8 continuavam fisicamente em `public`, embora ignoradas pelo Git, e os quatro desenhos 13–16 ainda estavam versionados. Também foi identificado `public/favicon.png`, sem ligação no HTML ou na aplicação. Esses 29 arquivos (17.081.704 bytes no diretório local) foram movidos para o acervo fora de `public`, com hash SHA-256 preservado. Cinco arquivos eram versionados; os demais já eram locais. A origem das artes finais e os PNGs aprovados não foram alterados.
+
+Restaram 47 arquivos públicos referenciados. O hero usa somente as duas artes definitivas; as quatro memórias ilustradas e a arte 06 da transição posterior permanecem. Os três ícones ligados no HTML também permanecem. O novo `audit-public-assets.mjs` faz parte de `npm run build` e verifica referências compiladas, mídias órfãs no artefato, referências sem arquivo e cópias públicas ausentes/divergentes.
+
+RED: a primeira execução da auditoria recusou o `dist/client` antigo, que ainda continha os arquivos removidos. GREEN: após reconstrução, a auditoria registrou 47 arquivos referenciados, zero órfãos e zero referências ausentes; build e oito testes passaram. O inventário dos movimentos e hashes fica em `evidencias/public-orfaos-movidos.json`; os logs de auditoria/build/testes permanecem locais.

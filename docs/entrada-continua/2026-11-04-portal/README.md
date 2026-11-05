@@ -32,3 +32,9 @@ Os testes `tests/arrival-portal.test.mjs` verificam ponto de escala compartilhad
 Em viewport largo 1860×842, a impressão digital amostrada do canvas foi igual na ida e na volta tanto na abertura quanto no trecho intermediário. Em 390×844 com DPR 2, o retorno à abertura também produziu a mesma impressão digital. O modo sem movimento mostrou duas artes, com cantos transparentes. A inspeção usa pixels da cena, leitura de estado e comparação visual; não é uma certificação de todos os navegadores/dispositivos. A comparação de fidelidade usa o próprio frame real, não a ilustração interna rejeitada.
 
 O servidor de desenvolvimento já aberto nesta sessão continua na porta 4380 para revisão local. Não houve publicação.
+
+## Ativos publicados
+
+O hero usa apenas `arrival-portal-wide.webp` e `arrival-portal-real-interior.webp`. As 28 versões antigas do hero e um favicon sem referência foram movidos para o acervo local em `estudos/public-orfaos/`, com hashes preservados. O histórico não deve ficar em `public`, mesmo que ignorado pelo Git, pois o Vite copia esse diretório para o build.
+
+As quatro ilustrações de memórias e a arte 06 da transição posterior continuam em uso nas outras seções. Após a limpeza há 47 arquivos ativos no diretório público. O build audita referências no JavaScript/HTML/CSS compilados, arquivos públicos copiados e mídias restantes no artefato, falhando se encontrar órfãos, faltantes ou divergências. A verificação independente também pode ser executada com `npm run audit:assets` após um build recente.

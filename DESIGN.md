@@ -60,6 +60,8 @@ Prompts: `docs/PROMPTS.md` preserva o histórico. Artes, fontes e prompts vigent
 
 Publicação do código: os dois PNGs aprovados, seus WebPs, prompts e manifesto são versionados. Vídeo de origem, frames reais, comparativos com pessoas e gerações substituídas permanecem no acervo local de criação, ignorado pelo Git. Os nomes históricos nesses registros descrevem etapas anteriores, não ativos exigidos pelo build atual.
 
+Limpeza de `public`: retirados 28 desenhos antigos do hero (13–16, V7 e V8) e o `favicon.png` sem referência, preservados no acervo local `docs/entrada-continua/2026-11-04-portal/estudos/public-orfaos/`. A primeira seção usa somente as duas artes definitivas. As quatro ilustrações de memórias e `06-interior-da-verde.webp` continuam porque pertencem às demais seções. Os ícones efetivamente ligados pelo HTML também permanecem. `npm run build` executa `scripts/audit-public-assets.mjs` sobre o artefato gerado; todos os 47 arquivos de `public` têm referência, e o build não admite mídia órfã ou cópia divergente.
+
 Destino local solicitado: `C:/Projects/carloseduardogarcia/verde-boutique/Site`. Repositório: `https://github.com/Kadugarcia1/verde-boutique`. Vercel deve usar a conta/equipe indicada pelo usuário, nunca a equipe Vetra por inferência. `vercel.json` publica `dist/client` após `npm run build`; nenhum segredo ou variável de ambiente é necessário.
 
 `design-qa.md` registra a conferência funcional/visual. A revisão adversarial contra o brandbook deve distinguir exigências documentadas, escolhas aprovadas pelo usuário e hipóteses de revisão. Ilustrações são interpretações, não registros documentais da história.
